@@ -1,0 +1,10 @@
+(Capitalize every other letter starting from index 0 then Sort by reverse alphabetically)
+
+RECCOMENDED USE --> enter a word and 4 numbers(like your birth year)
+
+youtube2005 >> YoUtUbE2005 >> tobYUUE5200
+amazon2005 >> AmAzOn2005 >> znmOAA5200
+google2005 >> GoOgLe2005 >> ogeOLG5200
+
+password2005 >> PaSsWoRd2005 >> sodaWSRP5200
+facebook2005 >> FaCeBoOk2005 >> okeaOFCB5200
