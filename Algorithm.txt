@@ -1,4 +1,4 @@
-(Capitalize every other letter starting from index 0 then Sort by reverse alphabetically)
+This will take your input and capitalize every other letter starting from index 0 then Sort by reverse alphabetically.
 
 RECCOMENDED USE --> enter a word and 4 numbers(like your birth year)
 
